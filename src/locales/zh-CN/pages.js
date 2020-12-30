@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-12-22 20:18:18
- * @LastEditTime: 2020-12-24 00:21:15
+ * @LastEditTime: 2020-12-29 17:16:45
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \ant-prov4-block\src\locales\zh-CN\pages.js
@@ -82,5 +82,19 @@ export default {
   'pages.searchTable.other': '其他',
   'pages.searchTable.minorLang': '小语种',
   'pages.searchTable.jobLevel': '职级',
-  'pages.searchTable.endtime': '当前项目结束时间'
+  'pages.searchTable.endAt': '当前项目结束时间',
+  'pages.searchTable.porojectId': '编号',
+  'pages.searchTable.porojectName': '名称',
+  'pages.searchTable.requireProgram': '需求方',
+  'pages.searchTable.bussinessLine': '业务线',
+  'pages.searchTable.totalAccount': '总额',
+  'pages.searchTable.totalData': '总数据量',
+  'pages.searchTable.startAt': '计划开始时间',
+  'pages.searchTable.cost': '成本',
+  'pages.searchTable.process': '进度',
+  'pages.searchTable.risk': '风险',
+  'pages.searchTable.range': '范围',
+  'pages.searchTable.peopleInfo': '人员信息',
+  'pages.searchTable.planHour': '计划工时',
+  'pages.searchTable.realHour': '实际工时',
 };

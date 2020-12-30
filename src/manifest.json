@@ -1,6 +1,6 @@
 {
-  "name": "ddw",
-  "short_name": "ddw",
+  "name": "ByteDance",
+  "short_name": "ByteDance",
   "display": "standalone",
   "start_url": "./?utm_source=homescreen",
   "theme_color": "#002140",

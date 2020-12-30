@@ -1,7 +1,7 @@
 /*
  * @Author: your name
  * @Date: 2020-12-22 20:18:17
- * @LastEditTime: 2020-12-28 10:15:44
+ * @LastEditTime: 2020-12-28 20:20:00
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \ant-prov4-block\config\defaultSettings.js
@@ -15,7 +15,7 @@ const proSettings = {
   fixedHeader: false,
   fixSiderbar: true,
   colorWeak: false,
-  title: 'ddw',
+  title: 'ByteDance',
   pwa: false,
   iconfontUrl: '',
 };
